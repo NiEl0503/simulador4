@@ -129,8 +129,4 @@ Antes de construir as visualizações, é fundamental limpar e preparar os dados
 ES:
 Antes de construir las visualizaciones, es crucial limpiar y preparar los datos. Se deben eliminar datos faltantes, crear columnas necesarias y remover duplicados para asegurar que las visualizaciones reflejen con precisión la realidad.
 
-## 👩‍💻 Desenvolvedora / Desarrolladora
 
-Ninoska Contreras
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/ninoska-contreras)

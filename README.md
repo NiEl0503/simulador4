@@ -12,7 +12,7 @@ ES:
 
 #### PT: 1. Raspagem de Dados IMDB
    
-Objetivo: Raspagem da URL https://www.imdb.com/chart/top/ para extrair os 25 primeiros filmes.
+Objetivo: Aprender a extrair e analisar informações de sites usando técnicas de web scraping. Raspagem da URL https://www.imdb.com/chart/top/ para extrair os 25 primeiros filmes.
 
 Ação: Crie um DataFrame no pandas com as seguintes colunas: Título, Ano, Duração, Nota, Classificação Indicativa.
 
@@ -25,9 +25,10 @@ Relação entre Nota e Duração: Explore como a duração do filme se relaciona
 Relação entre Nota e Classificação Indicativa: Analise como a classificação indica a qualidade percebida dos filmes.
 
 
+
 #### ES: 1. Raspado de Datos IMDB
 
-Objetivo: Raspado de la URL https://www.imdb.com/chart/top/ para extraer los 25 primeros filmes.
+Objetivo: Aprender a extraer y analizar información desde sitios web utilizando técnicas de web scraping. Raspado de la URL https://www.imdb.com/chart/top/ para extraer los 25 primeros filmes.
 
 Acción: Crea un DataFrame en pandas con las siguientes columnas: Título, Año, Duración, Calificación, Clasificación Indicativa.
 
@@ -38,6 +39,7 @@ Películas por Año: Visualiza cuántas películas se lanzaron cada año.
 Relación entre Calificación y Duración: Explora cómo la duración de la película se relaciona con su calificación.
 
 Relación entre Calificación y Clasificación Indicativa: Analiza cómo la clasificación indica la calidad percibida de las películas.
+
 
 
 #### PT: 2. KPIs com a Base da NBA
@@ -81,6 +83,7 @@ Gráfico de Barras Total de Salários por Time: Analise o gasto de cada time em 
 Gráfico de Colunas Rating por Time: Crie um ranking baseado no rating médio dos jogadores.
 
 
+
 #### ES: 2. KPIs con la Base de la NBA
 
 Objetivo: Asumir el papel de Analista de Datos del equipo ‘Sacramento Kings’.
@@ -121,12 +124,53 @@ Gráfico de Barras Total de Salarios por Equipo: Analiza el gasto de cada equipo
 
 Gráfico de Columnas Rating por Equipo: Crea un ranking basado en el rating medio de todos los jugadores.
 
-### 🛠️  Preparação de Dados / Preparación de Datos
+### 📋   Preparação de Dados / Preparación de Datos
 
 PT:
-Antes de construir as visualizações, é fundamental limpar e preparar os dados. Devem ser eliminados dados faltantes, criadas colunas necessárias e removidos duplicados para garantir que as visualizações reflitam com precisão a realidade.
+Antes de realizar qualquer visualização ou análise, é fundamental limpar e organizar os dados. Isso inclui:
 
+**Eliminação de dados faltantes:** Remova ou impute valores faltantes para evitar distorções na análise.
+
+**Normalização e transformação:** ajuste os formatos de dados para garantir consistência.
+
+**Criando Novas Colunas:** Gere colunas adicionais que podem facilitar análises, como cálculo da idade dos jogadores.
+
+**Remover duplicatas** certifique-se de que não haja registros repetidos que possam distorcer a análise.
+
+<br>
 ES:
-Antes de construir las visualizaciones, es crucial limpiar y preparar los datos. Se deben eliminar datos faltantes, crear columnas necesarias y remover duplicados para asegurar que las visualizaciones reflejen con precisión la realidad.
+Antes de realizar cualquier visualización o análisis, es crucial limpiar y organizar los datos. Esto incluye:
 
+**Eliminación de Datos Faltantes:** Remover o imputar valores faltantes para evitar distorsiones en el análisis.
 
+**Normalización y Transformación:** Ajustar los formatos de datos para asegurar la coherencia.
+
+**Creación de Nuevas Columnas:** Generar columnas adicionales que puedan facilitar el análisis, como el cálculo de la edad de los jugadores.
+
+**Remover Duplicados:** Asegurar que no existan registros repetidos que puedan sesgar el análisis.
+
+<br>
+
+### 🛠️ Ferramentas Utilizadas /  Herramientas Utilizadas 
+
+PT:
+
+Python: linguagem de programação primária para manipulação e análise de dados.
+
+Pandas: Biblioteca para manipulação de dados na forma de DataFrames.
+
+BeautifulSoup & Requests: Ferramentas para realizar web scraping e extração de informações de sites.
+
+Matplotlib e Seaborn: Bibliotecas para criação de visualizações gráficas.
+
+<br>
+
+ES: 
+
+Python: Lenguaje de programación principal para la manipulación y análisis de datos.
+
+Pandas: Biblioteca para la manipulación de datos en forma de DataFrames.
+
+BeautifulSoup & Requests: Herramientas para realizar web scraping y extracción de información de sitios web.
+
+Matplotlib & Seaborn: Bibliotecas para la creación de visualizaciones gráficas.

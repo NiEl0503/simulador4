@@ -1,0 +1,430 @@
+,full_name,rating,jersey,team,position,b_day,height,weight,salary,country,draft_year,draft_round,draft_peak,college
+0,LeBron James,97,23,Los Angeles Lakers,Forward,1984-12-30,2.06,113.4,37436858.0,USA,2003,1,1,Not informed
+1,Kawhi Leonard,97,2,Los Angeles Clippers,Forward,1991-06-29,2.01,102.1,32742000.0,USA,2011,1,15,San Diego State
+2,Giannis Antetokounmpo,96,34,Milwaukee Bucks,Forward-Guard,1994-12-06,2.11,109.8,25842697.0,Greece,2013,1,15,Not informed
+3,Kevin Durant,96,7,Brooklyn Nets,Forward,1988-09-29,2.08,104.3,37199000.0,USA,2007,1,2,Texas
+4,James Harden,96,13,Houston Rockets,Guard,1989-08-26,1.96,99.8,38199000.0,USA,2009,1,3,Arizona State
+5,Stephen Curry,95,30,Golden State Warriors,Guard,1988-03-14,1.91,83.9,40231758.0,USA,2009,1,7,Davidson
+6,Anthony Davis,94,3,Los Angeles Lakers,Forward-Center,1993-03-11,2.08,100.7,27093019.0,USA,2012,1,1,Kentucky
+7,Paul George,93,13,Los Angeles Clippers,Forward,1990-05-02,2.03,95.3,33005556.0,USA,2010,1,10,Fresno State
+8,Damian Lillard,92,0,Portland Trail Blazers,Guard,1990-07-15,1.88,88.5,29802321.0,USA,2012,1,6,Weber State
+9,Joel Embiid,91,21,Philadelphia 76ers,Center,1994-03-16,2.13,113.4,27504630.0,Cameroon,2014,1,3,Kansas
+10,Kyrie Irving,91,11,Brooklyn Nets,Guard,1992-03-23,1.88,81.6,31742000.0,Australia,2011,1,1,Duke
+11,Nikola Jokic,90,15,Denver Nuggets,Center,1995-02-19,2.13,114.8,27504630.0,Serbia,2014,2,41,Not informed
+12,Russell Westbrook,90,0,Houston Rockets,Guard,1988-11-12,1.91,86.2,38506482.0,USA,2008,1,4,UCLA
+13,Klay Thompson,89,11,Golden State Warriors,Guard,1990-02-08,1.98,93.0,32742000.0,USA,2011,1,11,Washington State
+14,Karl-Anthony Towns,89,32,Minnesota Timberwolves,Forward-Center,1995-11-15,2.11,112.5,27285000.0,USA,2015,1,1,Kentucky
+15,Jimmy Butler,88,22,Miami Heat,Guard,1989-09-14,2.01,99.8,32742000.0,USA,2011,1,30,Marquette
+16,Rudy Gobert,88,27,Utah Jazz,Center,1992-06-26,2.16,108.0,25258427.0,France,2013,1,27,Not informed
+17,Blake Griffin,88,23,Detroit Pistons,Forward,1989-03-16,2.06,114.3,34449964.0,USA,2009,1,1,Oklahoma
+18,Donovan Mitchell,88,45,Utah Jazz,Guard,1996-09-07,1.85,95.7,3635760.0,USA,2017,1,13,Louisville
+19,Kemba Walker,88,8,Boston Celtics,Guard,1990-05-08,1.83,78.0,32742000.0,USA,2011,1,9,UConn
+20,Luka Doncic,87,77,Dallas Mavericks,Guard-Forward,1999-02-28,2.01,103.0,7683360.0,Slovenia,2018,1,3,Not informed
+21,LaMarcus Aldridge,87,12,San Antonio Spurs,Forward-Center,1985-07-19,2.11,111.6,26000000.0,USA,2006,1,2,Texas
+22,Bradley Beal,87,3,Washington Wizards,Guard,1993-06-28,1.91,93.9,27093018.0,USA,2012,1,3,Florida
+23,Mike Conley,87,10,Utah Jazz,Guard,1987-10-11,1.85,83.9,32511623.0,USA,2007,1,4,Ohio State
+24,DeMar DeRozan,87,10,San Antonio Spurs,Guard-Forward,1989-08-07,1.98,99.8,27739975.0,USA,2009,1,9,USC
+25,CJ McCollum,87,3,Portland Trail Blazers,Guard,1991-09-19,1.91,89.4,27556959.0,USA,2013,1,10,Lehigh
+26,Victor Oladipo,87,4,Indiana Pacers,Guard,1992-05-04,1.93,96.6,21000000.0,USA,2013,1,2,Indiana
+27,Kristaps Porzingis,87,6,Dallas Mavericks,Forward-Center,1995-08-02,2.21,99.8,27285000.0,Latvia,2015,1,4,Not informed
+28,D'Angelo Russell,87,0,Minnesota Timberwolves,Guard,1996-02-23,1.93,87.5,27285000.0,USA,2015,1,2,Ohio State
+29,Pascal Siakam,87,43,Toronto Raptors,Forward,1994-04-02,2.06,103.0,2351838.0,Cameroon,2016,1,27,New Mexico State
+30,Ben Simmons,87,25,Philadelphia 76ers,Forward,1996-07-20,2.08,108.9,8113929.0,Australia,2016,1,1,LSU
+31,De'Aaron Fox,86,5,Sacramento Kings,Guard,1997-12-20,1.91,77.6,6392760.0,USA,2017,1,5,Kentucky
+32,Devin Booker,86,1,Phoenix Suns,Guard,1996-10-30,1.96,93.4,27285000.0,USA,2015,1,13,Kentucky
+33,DeMarcus Cousins,86,0,,Center,1990-08-13,2.08,122.5,3500000.0,USA,2010,1,5,Kentucky
+34,Andre Drummond,86,0,Cleveland Cavaliers,Center,1993-08-10,2.08,122.5,27093018.0,USA,2012,1,9,UConn
+35,Draymond Green,86,23,Golden State Warriors,Forward,1990-03-04,1.98,104.3,18539130.0,USA,2012,2,35,Michigan State
+36,Jrue Holiday,86,11,New Orleans Pelicans,Guard,1990-06-12,1.91,81.6,26131111.0,USA,2009,1,17,UCLA
+37,Nikola Vucevic,86,9,Orlando Magic,Center,1990-10-24,2.11,108.9,28000000.0,Montenegro,2011,1,16,USC
+38,John Wall,86,2,Washington Wizards,Guard,1990-09-06,1.93,88.5,38199000.0,USA,2010,1,1,Kentucky
+39,Jayson Tatum,85,0,Boston Celtics,Forward,1998-03-03,2.03,92.5,7830000.0,USA,2017,1,3,Duke
+40,Trae Young,85,11,Atlanta Hawks,Guard,1998-09-19,1.85,81.6,6273000.0,USA,2018,1,5,Oklahoma
+41,Eric Bledsoe,85,6,Milwaukee Bucks,Guard,1989-12-09,1.85,88.5,15625000.0,USA,2010,1,18,Kentucky
+42,Clint Capela,85,15,Atlanta Hawks,Center,1994-05-18,2.08,95.7,16896552.0,Switzerland,2014,1,25,Not informed
+43,Tobias Harris,85,12,Philadelphia 76ers,Forward,1992-07-15,2.03,102.5,32742000.0,USA,2011,1,19,Tennessee
+44,Al Horford,85,42,Philadelphia 76ers,Center-Forward,1986-06-03,2.06,111.6,28000000.0,Dominican Republic,2007,1,3,Florida
+45,Zach LaVine,85,8,Chicago Bulls,Guard,1995-03-10,1.98,82.1,19500000.0,USA,2014,1,13,UCLA
+46,Kyle Lowry,85,7,Toronto Raptors,Guard,1986-03-25,1.83,93.0,33296296.0,USA,2006,1,24,Villanova
+47,Khris Middleton,85,22,Milwaukee Bucks,Forward,1991-08-12,2.01,98.4,30603448.0,USA,2012,2,39,Texas A&M
+48,Chris Paul,85,3,Oklahoma City Thunder,Guard,1985-05-06,1.85,79.4,38506482.0,USA,2005,1,4,Wake Forest
+49,John Collins,84,20,Atlanta Hawks,Forward,1997-09-23,2.06,102.1,2686560.0,USA,2017,1,19,Wake Forest
+50,Buddy Hield,84,24,Sacramento Kings,Guard,1993-12-17,1.93,96.2,4861207.0,The Bahamas,2016,1,6,Oklahoma
+51,Kyle Kuzma,84,0,Los Angeles Lakers,Forward,1995-07-24,2.03,100.2,1974600.0,USA,2017,1,27,Utah
+52,Jamal Murray,84,27,Denver Nuggets,Guard,1997-02-23,1.93,91.2,4444746.0,Canada,2016,1,7,Kentucky
+53,Louis Williams,84,23,Los Angeles Clippers,Guard,1986-10-27,1.85,79.4,8000000.0,USA,2005,2,45,Not informed
+54,Marvin Bagley,83,35,Sacramento Kings,Forward,1999-03-14,2.11,106.6,8556120.0,USA,2018,1,2,Duke
+55,Bojan Bogdanovic,83,44,Utah Jazz,Guard-Forward,1989-04-18,2.03,98.0,17000000.0,Croatia,2011,2,31,Not informed
+56,Malcolm Brogdon,83,7,Indiana Pacers,Guard,1992-12-11,1.96,101.2,20000000.0,USA,2016,2,36,Virginia
+57,Danilo Gallinari,83,8,Oklahoma City Thunder,Forward,1988-08-08,2.08,102.1,22615559.0,Italy,2008,1,6,Not informed
+58,Montrezl Harrell,83,5,Los Angeles Clippers,Forward,1994-01-26,2.01,114.8,6000000.0,USA,2015,2,32,Louisville
+59,Kevin Love,83,0,Cleveland Cavaliers,Forward,1988-09-07,2.03,117.9,28942830.0,USA,2008,1,5,UCLA
+60,Lauri Markkanen,83,24,Chicago Bulls,Forward-Center,1997-05-22,2.13,108.9,5300400.0,Finland,2017,1,7,Arizona
+61,Jusuf Nurkic,83,27,Portland Trail Blazers,Center,1994-08-23,2.13,131.5,12000000.0,Bosnia and Herzegovina,2014,1,16,Not informed
+62,Julius Randle,83,30,New York Knicks,Forward,1994-11-29,2.03,113.4,18000000.0,USA,2014,1,7,Kentucky
+63,Marc Gasol,82,33,Toronto Raptors,Center,1985-01-29,2.11,120.2,25595700.0,Spain,2007,2,48,Not informed
+64,Steven Adams,82,12,Oklahoma City Thunder,Center,1993-07-20,2.11,115.7,25842697.0,New Zealand,2013,1,12,Pittsburgh
+65,Deandre Ayton,82,22,Phoenix Suns,Center,1998-07-23,2.11,113.4,9562920.0,The Bahamas,2018,1,1,Arizona
+66,Spencer Dinwiddie,82,8,Brooklyn Nets,Guard,1993-04-06,1.96,93.0,10605600.0,USA,2014,2,38,Colorado
+67,Jaren Jackson,82,13,Memphis Grizzlies,Forward-Center,1999-09-15,2.11,110.0,6699960.0,USA,2018,1,4,Michigan State
+68,Paul Millsap,82,4,Denver Nuggets,Forward-Center,1985-02-10,2.01,113.4,30350000.0,USA,2017,2,47,Louisiana Tech
+69,Marcus Smart,82,36,Boston Celtics,Guard,1994-03-06,1.91,103.0,12553571.0,USA,2014,1,6,Oklahoma State
+70,Myles Turner,82,33,Indiana Pacers,Forward-Center,1996-03-24,2.11,108.4,18000000.0,USA,2015,1,11,Texas
+71,Serge Ibaka,81,9,Toronto Raptors,Forward,1989-09-18,2.13,108.9,23271604.0,Spain,2008,1,24,Not informed
+72,Zion Williamson,81,1,New Orleans Pelicans,Forward,2000-07-06,1.98,128.8,9757440.0,USA,2019,1,1,Duke
+73,Rudy Gay,81,22,San Antonio Spurs,Forward,1986-08-17,2.03,104.3,14500000.0,USA,2006,1,8,UConn
+74,Aaron Gordon,81,0,Orlando Magic,Forward,1995-09-16,2.03,99.8,19863636.0,USA,2014,1,4,Arizona
+75,Brandon Ingram,81,14,New Orleans Pelicans,Forward,1997-09-02,2.01,88.9,7265485.0,USA,2016,1,2,Duke
+76,DeAndre Jordan,81,6,Brooklyn Nets,Center,1988-07-21,2.11,120.2,9881598.0,USA,2008,2,35,Texas A&M
+77,Domantas Sabonis,81,11,Indiana Pacers,Forward-Center,1996-05-03,2.11,104.8,3529554.0,Lithuania,2016,1,11,Gonzaga
+78,Jonas Valanciunas,81,17,Memphis Grizzlies,Center,1992-05-06,2.11,104.8,16000000.0,Lithuania,2011,1,5,Not informed
+79,Hassan Whiteside,81,21,Portland Trail Blazers,Center,1989-06-13,2.13,106.6,27093018.0,USA,2010,2,33,Marshall
+80,Derrick Rose,80,25,Detroit Pistons,Guard,1988-10-04,1.88,86.2,7317074.0,USA,2008,1,1,Memphis
+81,Robert Covington,80,33,Houston Rockets,Forward,1990-12-14,2.01,94.8,11301219.0,USA,2013,Undrafted,Undrafted,Tennessee State
+82,Derrick Favors,80,22,New Orleans Pelicans,Forward,1991-07-15,2.06,111.6,17650000.0,USA,2010,1,3,Georgia Tech
+83,Gordon Hayward,80,20,Boston Celtics,Forward,1990-03-23,2.01,93.9,32700690.0,USA,2010,1,9,Butler
+84,Reggie Jackson,80,0,Los Angeles Clippers,Guard,1990-04-16,1.91,94.3,17799677.0,USA,2011,1,24,Boston College
+85,Enes Kanter,80,11,Boston Celtics,Center,1992-05-20,2.08,118.8,4767000.0,Turkey,2011,1,3,Not informed
+86,Otto Porter,80,22,Chicago Bulls,Forward,1993-06-03,2.03,89.8,27250576.0,USA,2013,1,2,Georgetown
+87,JJ Redick,80,4,New Orleans Pelicans,Guard,1984-06-24,1.91,86.2,13486300.0,USA,2006,1,11,Duke
+88,Josh Richardson,80,0,Philadelphia 76ers,Guard,1993-09-15,1.96,90.7,10116576.0,USA,2015,2,40,Tennessee
+89,TJ Warren,80,1,Indiana Pacers,Forward,1993-09-05,2.03,99.8,11060000.0,USA,2014,1,14,NC State
+90,Ja Morant,79,12,Memphis Grizzlies,Guard,1999-08-10,1.91,78.9,8730240.0,USA,2019,1,2,Murray State
+91,Bam Adebayo,79,13,Miami Heat,Forward-Center,1997-07-18,2.06,110.2,3454080.0,USA,2017,1,14,Kentucky
+92,Jarrett Allen,79,31,Brooklyn Nets,Center,1998-04-20,2.11,106.1,2376840.0,USA,2017,1,22,Texas
+93,Lonzo Ball,79,2,New Orleans Pelicans,Guard,1997-10-27,1.98,86.2,8719320.0,USA,2017,1,2,UCLA
+94,Harrison Barnes,79,40,Sacramento Kings,Forward,1992-05-30,2.03,95.3,24147727.0,USA,2012,1,7,North Carolina
+95,Patrick Beverley,79,21,Los Angeles Clippers,Guard,1988-07-12,1.85,81.6,12345680.0,USA,2009,2,42,Arkansas
+96,Jaylen Brown,79,7,Boston Celtics,Forward,1996-10-24,1.98,101.2,6534829.0,USA,2016,1,3,California
+97,Willie Cauley-Stein,79,0,Dallas Mavericks,Center,1993-08-18,2.13,109.8,2177483.0,USA,2015,1,6,Kentucky
+98,Goran Dragic,79,7,Miami Heat,Guard,1986-05-06,1.91,86.2,19217900.0,Slovenia,2008,2,45,Not informed
+99,Shai Gilgeous-Alexander,79,2,Oklahoma City Thunder,Guard,1998-07-12,1.96,81.6,3952920.0,Canada,2018,1,11,Kentucky
+100,Gary Harris,79,14,Denver Nuggets,Guard,1994-09-14,1.93,93.0,17839286.0,USA,2014,1,19,Michigan State
+101,Joe Ingles,79,2,Utah Jazz,Forward,1987-10-02,2.01,94.8,11454546.0,Australia,2009,Undrafted,Undrafted,Not informed
+102,Jeremy Lamb,79,26,Indiana Pacers,Guard,1992-05-30,1.96,81.6,10500000.0,USA,2012,1,12,UConn
+103,Brook Lopez,79,11,Milwaukee Bucks,Center,1988-04-01,2.13,120.2,12093024.0,USA,2008,1,10,Stanford
+104,JaVale McGee,79,7,Los Angeles Lakers,Center,1988-01-19,2.13,122.5,4000000.0,USA,2008,1,18,Nevada
+105,Mitchell Robinson,79,23,New York Knicks,Center,1998-04-01,2.13,101.2,1559712.0,USA,2018,2,36,Not informed
+106,Terrence Ross,79,8,Orlando Magic,Guard,1991-02-05,1.98,93.4,12500000.0,USA,2012,1,8,Washington
+107,Tristan Thompson,79,13,Cleveland Cavaliers,Forward,1991-03-13,2.06,102.1,18539130.0,Canada,2011,1,4,Texas
+108,PJ Tucker,79,17,Houston Rockets,Forward,1985-05-05,1.96,102.1,8349039.0,USA,2006,2,35,Texas
+109,Fred VanVleet,79,23,Toronto Raptors,Guard,1994-02-25,1.85,89.4,9346153.0,USA,2006,Undrafted,Undrafted,Wichita State
+110,Andrew Wiggins,79,22,Golden State Warriors,Forward,1995-02-23,2.01,89.4,27504630.0,Canada,2014,1,1,Kansas
+111,Thaddeus Young,79,21,Chicago Bulls,Forward,1988-06-21,2.03,99.8,12900000.0,USA,2007,1,12,Georgia Tech
+112,RJ Barrett,78,9,New York Knicks,Guard,2000-06-14,1.98,91.6,7839960.0,Canada,2019,1,3,Duke
+113,Ricky Rubio,78,11,Phoenix Suns,Guard,1990-10-21,1.91,81.6,16200000.0,Spain,2009,1,5,Not informed
+114,Will Barton,78,5,Denver Nuggets,Guard,1991-01-06,1.96,79.4,12776786.0,USA,2012,2,40,Memphis
+115,Bogdan Bogdanovic,78,8,Sacramento Kings,Guard,1992-08-18,1.98,93.0,8529386.0,Serbia,2014,1,27,Not informed
+116,Thomas Bryant,78,13,Washington Wizards,Forward-Center,1997-07-31,2.08,109.3,8000000.0,USA,2017,2,42,Indiana
+117,Wendell Carter,78,34,Chicago Bulls,Center,1999-04-16,2.06,117.5,5201400.0,USA,2018,1,7,Duke
+118,Jordan Clarkson,78,8,Utah Jazz,Guard,1992-06-07,1.93,84.4,13437500.0,Philippines,2014,2,46,Missouri
+119,Evan Fournier,78,10,Orlando Magic,Guard,1992-10-29,2.01,86.2,17150000.0,France,2012,1,20,Not informed
+120,Eric Gordon,78,10,Houston Rockets,Guard,1988-12-25,1.91,97.5,14057730.0,USA,2008,1,7,Indiana
+121,JaMychal Green,78,4,Los Angeles Clippers,Forward,1990-06-21,2.03,99.8,4767000.0,USA,2012,Undrafted,Undrafted,Alabama
+122,Joe Harris,78,12,Brooklyn Nets,Guard,1991-09-06,1.98,97.5,7666667.0,USA,2014,2,33,Virginia
+123,Andre Iguodala,78,9,Miami Heat,Guard-Forward,1984-01-28,1.98,93.9,17185185.0,USA,2004,1,9,Arizona
+124,Caris LeVert,78,22,Brooklyn Nets,Guard,1994-08-25,1.98,86.6,2625717.0,USA,2016,1,20,Michigan
+125,Marcus Morris,78,0,Los Angeles Clippers,Forward,1989-09-02,2.03,106.6,15000000.0,USA,2011,1,14,Kansas
+126,Dejounte Murray,78,5,San Antonio Spurs,Guard,1996-09-19,1.93,77.1,2321735.0,USA,2016,1,29,Washington
+127,Larry Nance Jr,78,22,Cleveland Cavaliers,Forward,1993-01-01,2.01,103.0,12727273.0,USA,2015,1,27,Wyoming
+128,Kelly Olynyk,78,9,Miami Heat,Center,1991-04-19,2.11,106.1,12667885.0,Canada,2013,1,13,Gonzaga
+129,Kelly Oubre,78,3,Phoenix Suns,Forward-Guard,1995-12-09,2.01,92.1,15625000.0,USA,2015,1,15,Kansas
+130,Jabari Parker,78,0,Sacramento Kings,Forward,1995-03-15,2.03,106.6,6500000.0,USA,2014,1,2,Duke
+131,Bobby Portis,78,1,New York Knicks,Forward-Center,1995-02-10,2.08,111.6,15000000.0,USA,2015,1,22,Arkansas
+132,Terry Rozier,78,3,Charlotte Hornets,Guard,1994-03-17,1.85,86.2,19894737.0,USA,2015,1,16,Louisville
+133,Dennis Schroeder,78,17,Oklahoma City Thunder,Guard,1993-09-15,1.85,78.0,15500000.0,Germany,2013,1,17,Not informed
+134,Jeff Teague,78,0,Atlanta Hawks,Guard,1988-06-10,1.91,82.1,19000000.0,USA,2009,1,19,Wake Forest
+135,Derrick White,78,4,San Antonio Spurs,Guard,1994-07-02,1.93,90.7,1948080.0,USA,2017,1,29,Colorado
+136,Justise Winslow,78,0,Memphis Grizzlies,Forward,1996-03-26,1.98,100.7,13000000.0,USA,2015,1,10,Duke
+137,Darius Garland,77,10,Cleveland Cavaliers,Guard,2000-06-26,1.85,79.4,6400920.0,USA,2019,1,5,Vanderbilt
+138,De'Andre Hunter,77,12,Atlanta Hawks,Forward,1997-12-01,2.01,102.1,7068360.0,USA,2019,1,4,Virginia
+139,Al-Farouq Aminu,77,2,Orlando Magic,Forward,1990-09-21,2.03,97.5,9258000.0,Nigeria,2010,1,8,Wake Forest
+140,Mo Bamba,77,5,Orlando Magic,Center,1998-05-12,2.13,102.1,5697600.0,USA,2018,1,6,Texas
+141,Nicolas Batum,77,5,Charlotte Hornets,Forward-Guard,1988-12-14,2.06,95.3,25565217.0,France,2008,1,25,Not informed
+142,Malik Beasley,77,0,Minnesota Timberwolves,Guard,1996-11-26,1.93,89.8,2731713.0,USA,2016,1,19,Florida State
+143,Nemanja Bjelica,77,88,Sacramento Kings,Forward-Guard,1988-05-09,2.08,101.6,6825000.0,Serbia,2010,2,35,Not informed
+144,DeMarre Carroll,77,0,Houston Rockets,Forward,1986-07-27,1.98,96.2,7339258.0,USA,2009,1,27,Missouri
+145,Ed Davis,77,17,Utah Jazz,Forward,1989-06-05,2.06,97.5,4767000.0,USA,2010,1,13,North Carolina
+146,Taj Gibson,77,67,New York Knicks,Forward,1985-06-24,2.06,102.1,9000000.0,USA,2009,1,26,USC
+147,Jerami Grant,77,9,Denver Nuggets,Forward,1994-03-12,2.03,97.1,9346153.0,USA,2014,2,39,Syracuse
+148,Danny Green,77,14,Los Angeles Lakers,Guard,1987-06-22,1.98,94.8,14634147.0,USA,2009,2,46,North Carolina
+149,Tim Hardaway Jr,77,11,Dallas Mavericks,Guard,1992-03-16,1.96,90.3,20025127.0,USA,2013,1,24,Michigan
+150,Alex Len,77,0,Sacramento Kings,Center,1993-06-16,2.13,102.1,4160000.0,Ukraine,2013,1,5,Maryland
+151,Kevon Looney,77,5,Golden State Warriors,Forward,1996-02-06,2.06,100.7,4464286.0,USA,2015,1,30,UCLA
+152,Monte Morris,77,11,Denver Nuggets,Guard,1995-06-27,1.88,79.4,1588231.0,USA,2017,2,51,Iowa State
+153,Nerlens Noel,77,9,Oklahoma City Thunder,Forward-Center,1994-04-10,2.08,93.4,1882867.0,USA,2013,1,6,Kentucky
+154,Mason Plumlee,77,24,Denver Nuggets,Center-Forward,1990-03-05,2.11,108.0,14041096.0,USA,2013,1,22,Duke
+155,Jakob Poeltl,77,25,San Antonio Spurs,Center-Forward,1995-10-15,2.16,108.4,3754885.0,Austria,2016,1,9,Utah
+156,Dwight Powell,77,7,Dallas Mavericks,Forward-Center,1991-07-20,2.08,106.1,10259375.0,Canada,2014,2,45,Stanford
+157,Taurean Prince,77,2,Brooklyn Nets,Forward,1994-03-22,2.01,99.8,3481985.0,USA,2016,1,12,Baylor
+158,Dario Saric,77,20,Phoenix Suns,Forward,1994-04-08,2.08,98.0,3481985.0,Croatia,2014,1,12,Not informed
+159,Collin Sexton,77,2,Cleveland Cavaliers,Guard,1999-01-04,1.85,86.2,4764960.0,USA,2018,1,8,Alabama
+160,Dennis Smith,77,5,New York Knicks,Guard,1997-11-25,1.88,88.5,4463640.0,USA,2017,1,9,NC State
+161,Cody Zeller,77,40,Charlotte Hornets,Center-Forward,1992-10-05,2.13,104.3,14471910.0,USA,2013,1,4,Indiana
+162,Ivica Zubac,77,40,Los Angeles Clippers,Center,1997-03-18,2.13,120.2,6481482.0,Croatia,2016,2,32,Not informed
+163,Jarrett Culver,77,23,Minnesota Timberwolves,Guard,1999-02-20,1.98,88.5,5813640.0,USA,2019,1,6,Texas Tech
+164,Willy Hernangomez,76,9,Charlotte Hornets,Center-Forward,1994-05-27,2.11,115.7,1676735.0,Spain,2015,2,35,Not informed
+165,Trevor Ariza,76,0,Portland Trail Blazers,Forward-Guard,1985-06-30,2.03,95.3,12200000.0,USA,2004,2,43,UCLA
+166,DJ Augustin,76,14,Orlando Magic,Guard,1987-11-10,1.8,81.6,7250000.0,USA,2008,1,9,Texas
+167,Jose Juan Barea,76,5,Dallas Mavericks,Guard,1984-06-26,1.78,79.4,2564753.0,Puerto Rico,2006,Undrafted,Undrafted,Northeastern
+168,Michael Beasley,76,0,,Forward,1989-01-09,2.08,106.6,3500000.0,USA,2008,1,2,Kansas State
+169,Davis Bertans,76,42,Washington Wizards,Forward,1992-11-12,2.08,95.7,7000000.0,Latvia,2011,2,42,Not informed
+170,Avery Bradley,76,11,Los Angeles Lakers,Guard,1990-11-26,1.91,88.5,6767000.0,USA,2010,1,19,Texas
+171,Miles Bridges,76,0,Charlotte Hornets,Forward,1998-03-21,1.98,102.1,3755400.0,USA,2018,1,12,Michigan State
+172,Jalen Brunson,76,13,Dallas Mavericks,Guard,1996-08-31,1.85,86.2,1416852.0,USA,2018,2,33,Villanova
+173,Kentavious Caldwell-Pope,76,1,Los Angeles Lakers,Guard,1993-02-18,1.96,92.5,8089282.0,USA,2013,1,8,Georgia
+174,Jae Crowder,76,99,Miami Heat,Forward,1990-07-06,1.98,106.6,7815533.0,USA,2012,2,34,Marquette
+175,Dewayne Dedmon,76,0,Atlanta Hawks,Center,1989-08-12,2.13,108.4,13333334.0,USA,2013,Undrafted,Undrafted,USC
+176,Gorgui Dieng,76,0,Memphis Grizzlies,Center,1990-01-18,2.08,104.3,16229213.0,Senegal,2013,1,21,Louisville
+177,Gerald Green,76,0,,Forward-Guard,1986-01-26,1.98,87.1,2564753.0,USA,2005,1,18,Not informed
+178,Jeff Green,76,34,Houston Rockets,Forward,1986-08-28,2.03,106.6,3405180.0,USA,2007,1,5,Georgetown
+179,Rodney Hood,76,5,Portland Trail Blazers,Forward,1992-10-20,2.03,94.3,5718000.0,USA,2014,1,23,Duke
+180,Kevin Huerter,76,3,Atlanta Hawks,Guard,1998-08-27,2.01,86.2,2636280.0,USA,2018,1,19,Maryland
+181,Ersan Ilyasova,76,7,Milwaukee Bucks,Forward,1987-05-15,2.06,106.6,7000000.0,Turkey,2005,2,36,Not informed
+182,Jonathan Isaac,76,1,Orlando Magic,Forward,1997-10-03,2.11,93.0,5806440.0,USA,2017,1,6,Florida State
+183,Josh Jackson,76,20,Memphis Grizzlies,Forward,1997-02-10,2.03,92.1,7059480.0,USA,2017,1,4,Kansas
+184,Frank Kaminsky,76,8,Phoenix Suns,Forward-Center,1993-04-04,2.13,104.8,4767000.0,USA,2015,1,9,Wisconsin
+185,Michael Kidd-Gilchrist,76,0,Dallas Mavericks,Forward,1993-09-26,1.98,105.2,12784359.0,USA,2012,1,2,Kentucky
+186,Kevin Knox,76,20,New York Knicks,Forward,1999-08-11,2.01,97.5,4380120.0,USA,2018,1,9,Kentucky
+187,Meyers Leonard,76,0,Miami Heat,Center,1992-02-27,2.13,111.1,11286515.0,USA,2012,1,11,Illinois 
+188,Wesley Matthews,76,9,Milwaukee Bucks,Guard,1986-10-14,1.93,99.8,2564753.0,USA,2009,Undrafted,Undrafted,Marquette
+189,Emmanuel Mudiay,76,8,Utah Jazz,Guard,1996-03-05,1.91,86.2,1737145.0,Democratic Republic of the Congo,2015,1,7,Not informed
+190,Jahlil Okafor,76,8,New Orleans Pelicans,Center,1995-12-15,2.08,122.5,1702486.0,USA,2015,1,3,Duke
+191,Elfrid Payton,76,6,New York Knicks,Guard,1994-02-22,1.91,83.9,8000000.0,USA,2014,1,10,Louisiana
+192,Michael Porter,76,1,Denver Nuggets,Forward,1998-06-29,2.08,97.5,3389400.0,USA,2018,1,14,Missouri 
+193,Austin Rivers,76,25,Houston Rockets,Guard,1992-08-01,1.91,90.7,2174310.0,USA,2012,1,10,Duke
+194,Andre Roberson,76,21,Oklahoma City Thunder,Guard-Forward,1991-12-04,2.01,93.4,10740740.0,USA,2013,1,26,Colorado 
+195,Rajon Rondo,76,9,Los Angeles Lakers,Guard,1986-02-22,1.85,84.4,2564753.0,USA,2006,1,21,Kentucky
+196,Landry Shamet,76,20,Los Angeles Clippers,Guard,1997-03-13,1.93,81.6,1995120.0,USA,2018,1,26,Wichita State
+197,Daniel Theis,76,27,Boston Celtics,Center,1992-04-04,2.03,97.5,5000000.0,Germany,2013,Undrafted,Undrafted,Not informed
+198,Isaiah Thomas,76,0,,Guard,1989-02-07,1.75,83.9,2320044.0,USA,2011,2,60,Washington
+199,Dion Waiters,76,11,Los Angeles Lakers,Guard,1991-12-10,1.91,95.3,12475385.0,USA,2012,1,4,Syracuse
+200,Marvin Williams,76,2,Milwaukee Bucks,Forward,1986-06-19,2.03,108.9,14654179.0,USA,2005,1,2,North Carolina
+201,Delon Wright,76,55,Dallas Mavericks,Guard,1992-04-26,1.96,82.1,9473684.0,USA,2015,1,20,Utah
+202,Coby White,76,0,Chicago Bulls,Guard,2000-02-16,1.93,83.9,5307120.0,USA,2019,1,7,North Carolina
+203,Pau Gasol,75,0,,Center,1980-07-06,2.16,113.4,5538540.0,Spain,2001,1,3,Not informed
+204,Aron Baynes,75,46,Phoenix Suns,Center,1986-12-09,2.08,117.9,5453280.0,Australia,2009,Undrafted,Undrafted,Washington State
+205,Kent Bazemore,75,26,Sacramento Kings,Guard,1989-07-01,1.93,88.5,19269663.0,USA,2012,Undrafted,Undrafted,Old Dominion
+206,Marco Belinelli,75,18,San Antonio Spurs,Guard,1986-03-25,1.96,90.7,5846154.0,Italy,2007,1,18,Not informed
+207,Bismack Biyombo,75,8,Charlotte Hornets,Center,1992-08-28,2.03,103.9,17000000.0,Democratic Republic of the Congo,2011,1,7,Not informed
+208,Mikal Bridges,75,25,Phoenix Suns,Forward-Guard,1996-08-30,1.98,94.8,4161000.0,USA,2018,1,10,Villanova
+209,Wilson Chandler,75,21,Brooklyn Nets,Forward-Guard,1987-05-10,2.03,102.1,2564753.0,USA,2007,1,23,DePaul
+210,Damyean Dotson,75,21,New York Knicks,Guard,1994-05-06,1.96,91.6,1618520.0,USA,2017,2,44,Houston
+211,Kris Dunn,75,32,Chicago Bulls,Guard,1994-03-18,1.91,93.0,5348007.0,USA,2016,1,5,Providence
+212,Wayne Ellington,75,2,New York Knicks,Guard,1987-11-29,1.93,90.7,8000000.0,USA,2009,1,28,North Carolina
+213,Bryn Forbes,75,11,San Antonio Spurs,Guard,1993-07-23,1.88,84.8,2875000.0,USA,2016,Undrafted,Undrafted,Michigan State
+214,Josh Hart,75,3,New Orleans Pelicans,Guard,1995-03-06,1.96,92.5,1934160.0,USA,2017,1,30,Villanova
+215,John Henson,75,31,Detroit Pistons,Forward,1990-12-28,2.06,99.8,9732396.0,USA,2012,1,14,North Carolina
+216,Mario Hezonja,75,44,Portland Trail Blazers,Forward-Guard,1995-02-25,2.03,91.2,1737145.0,Croatia,2015,1,5,Not informed
+217,George Hill,75,3,Milwaukee Bucks,Guard,1986-05-04,1.91,81.6,10133907.0,USA,2008,1,26,IUPUI
+218,Rondae Hollis-Jefferson,75,4,Toronto Raptors,Forward,1995-01-03,1.98,95.7,2500000.0,USA,2015,1,23,Arizona
+219,Richaun Holmes,75,22,Sacramento Kings,Forward,1993-10-15,2.08,110.2,4767000.0,USA,2015,2,37,Bowling Green
+220,James Johnson,75,0,Minnesota Timberwolves,Forward,1987-02-20,2.01,111.1,15349400.0,USA,2009,1,16,Wake Forest
+221,Luke Kennard,75,5,Detroit Pistons,Guard,1996-06-24,1.96,88.9,3827160.0,USA,2017,1,12,Duke
+222,Kyle Korver,75,26,Milwaukee Bucks,Forward,1981-03-17,2.01,96.2,6004753.0,USA,2003,2,51,Creighton
+223,Rodions Kurucs,75,0,Brooklyn Nets,Forward,1998-02-05,2.06,97.5,1699236.0,Latvia,2018,2,40,Not informed
+224,Jake Layman,75,10,Minnesota Timberwolves,Forward,1994-03-07,2.03,94.8,3581986.0,USA,2016,2,47,Maryland
+225,Robin Lopez,75,42,Milwaukee Bucks,Center,1988-04-01,2.13,115.7,4767000.0,USA,2008,1,15,Stanford
+226,Trey Lyles,75,41,San Antonio Spurs,Forward,1995-11-05,2.06,109.3,5500000.0,Canada,2015,1,12,Kentucky
+227,Boban Marjanovic,75,51,Dallas Mavericks,Center,1988-08-15,2.24,131.5,3500000.0,Serbia,2010,Undrafted,Undrafted,Not informed
+228,TJ McConnell,75,9,Indiana Pacers,Guard,1992-03-25,1.85,90.7,3500000.0,USA,2015,Undrafted,Undrafted,Arizona
+229,Patrick Mills,75,8,San Antonio Spurs,Guard,1988-08-11,1.85,83.9,12678571.0,Australia,2009,2,55,Saint Mary's
+230,Malik Monk,75,1,Charlotte Hornets,Guard,1998-02-04,1.91,89.4,4028400.0,USA,2017,1,11,Kentucky
+231,Markieff Morris,75,88,Los Angeles Lakers,Forward,1989-09-02,2.03,111.1,3709887.0,USA,2011,1,13,Kansas
+232,Shabazz Napier,75,0,Washington Wizards,Guard,1991-07-14,1.83,79.4,1845301.0,USA,2014,1,24,UConn
+233,Cedi Osman,75,16,Cleveland Cavaliers,Forward-Guard,1995-04-08,2.01,97.5,2907143.0,Turkey,2015,2,31,Not informed
+234,Tomas Satoransky,75,31,Chicago Bulls,Guard,1991-10-30,2.01,89.8,10000000.0,Czech,2012,2,32,Not informed
+235,Mike Scott,75,1,Philadelphia 76ers,Forward,1988-07-16,2.01,107.5,4767000.0,USA,2012,2,43,Virginia
+236,Noah Vonleh,75,0,Denver Nuggets,Forward,1995-08-24,2.08,112.0,2000000.0,USA,2014,1,9,Indiana
+237,Allonzo Trier,75,0,,Guard-Forward,1996-01-17,1.93,90.7,3551100.0,USA,2018,Undrafted,Undrafted,Arizona
+238,Juan Hernangomez,74,41,Minnesota Timberwolves,Forward,1995-09-28,2.06,99.8,3321029.0,Spain,2016,1,15,Not informed
+239,Kyle Anderson,74,1,Memphis Grizzlies,Forward,1993-09-20,2.06,104.3,9073050.0,USA,2014,1,30,UCLA
+240,Jordan Bell,74,0,Cleveland Cavaliers,Forward-Center,1995-01-07,2.03,101.6,1870564.0,USA,2017,2,38,Oregon
+241,Khem Birch,74,24,Orlando Magic,Center,1992-09-28,2.06,94.8,3000000.0,Canada,2014,Undrafted,Undrafted,UNLV
+242,Dillon Brooks,74,24,Memphis Grizzlies,Guard-Forward,1996-01-22,2.01,102.1,1618520.0,Canada,2017,2,45,Oregon
+243,Reggie Bullock,74,25,New York Knicks,Guard,1991-03-16,1.98,90.7,4000000.0,USA,2013,1,25,North Carolina
+244,Zach Collins,74,33,Portland Trail Blazers,Center,1997-11-17,2.11,105.2,4240200.0,USA,2017,1,10,Gonzaga
+245,Pat Connaughton,74,24,Milwaukee Bucks,Guard,1993-01-06,1.96,97.5,1723050.0,USA,2015,2,41,Notre Dame
+246,Quinn Cook,74,2,Los Angeles Lakers,Guard,1993-03-23,1.85,81.6,3000000.0,USA,2015,Undrafted,Undrafted,Duke
+247,Torrey Craig,74,3,Denver Nuggets,Guard,1990-12-19,2.01,97.5,2000000.0,USA,2014,Undrafted,Undrafted,USC Upstate
+248,Seth Curry,74,30,Dallas Mavericks,Guard,1990-08-23,1.88,81.6,7461380.0,USA,2013,Undrafted,Undrafted,Duke
+249,Cheick Diallo,74,14,Phoenix Suns,Forward-Center,1996-09-13,2.03,99.3,1678854.0,Mali,2016,2,33,Kansas
+250,Yogi Ferrell,74,3,Sacramento Kings,Guard,1993-05-09,1.83,80.7,3150000.0,USA,2016,Undrafted,Undrafted,Indiana
+251,Markelle Fultz,74,20,Orlando Magic,Guard,1998-05-29,1.91,88.5,9745200.0,USA,2017,1,1,Washington
+252,Harry Giles,74,20,Sacramento Kings,Forward-Center,1998-04-22,2.11,105.2,2578800.0,USA,2017,1,20,Duke
+253,Moe Harkless,74,0,New York Knicks,Forward,1993-05-11,2.01,94.3,11011234.0,USA,2012,1,15,St. John's
+254,Justin Jackson,74,44,Dallas Mavericks,Forward-Guard,1995-03-28,2.01,91.2,3280920.0,USA,2017,1,15,North Carolina
+255,Tyler Johnson,74,0,Brooklyn Nets,Guard,1992-05-07,1.91,84.4,19428485.0,USA,2014,Undrafted,Undrafted,Fresno State
+256,Derrick Jones,74,5,Miami Heat,Forward,1997-02-15,1.98,88.5,1645357.0,USA,2016,Undrafted,Undrafted,UNLV
+257,Cory Joseph,74,9,Sacramento Kings,Guard,1991-08-20,1.91,83.9,12000000.0,Canada,2011,1,29,Texas
+258,Maxi Kleber,74,42,Dallas Mavericks,Forward-Center,1992-01-29,2.08,95.7,8000000.0,Germany,2014,Undrafted,Undrafted,Not informed
+259,TJ Leaf,74,22,Indiana Pacers,Forward-Center,1997-04-30,2.08,100.7,2813280.0,Israel,2017,1,18,UCLA
+260,Doug McDermott,74,20,Indiana Pacers,Forward,1992-01-03,2.01,98.9,7333333.0,USA,2014,1,11,Creighton
+261,E'Twaun Moore,74,55,New Orleans Pelicans,Guard,1989-02-25,1.91,86.6,8664928.0,USA,2011,2,55,Purdue
+262,Joakim Noah,74,0,Los Angeles Clippers,Center,1985-02-25,2.11,103.0,6813026.0,USA,2007,1,9,Florida
+263,Kyle O'Quinn,74,9,Philadelphia 76ers,Forward-Center,1990-03-26,2.06,108.9,2174318.0,USA,2012,2,49,Norfolk State
+264,Chandler Parsons,74,0,,Forward,1988-10-25,2.06,90.7,25102512.0,USA,2011,2,38,Florida
+265,Norman Powell,74,24,Toronto Raptors,Guard,1993-05-25,1.91,97.5,10116576.0,USA,2015,2,46,UCLA
+266,Ivan Rabb,74,0,,Forward-Center,1997-02-04,2.08,99.8,451326.0,USA,2017,2,35,California
+267,Glenn Robinson III,74,22,Golden State Warriors,Forward,1994-01-08,1.98,95.7,1882867.0,USA,2014,2,40,Michigan
+268,Denzel Valentine,74,45,Chicago Bulls,Guard,1993-11-16,1.93,95.3,3377568.0,USA,2016,1,14,Michigan State
+269,Robert Williams,74,44,Boston Celtics,Forward-Center,1997-10-17,2.03,107.5,1937520.0,USA,2018,1,27,Texas A&M
+270,Christian Wood,74,35,Detroit Pistons,Forward,1995-09-27,2.08,98.0,1645357.0,USA,2015,Undrafted,Undrafted,UNLV
+271,Jaxson Hayes,74,10,New Orleans Pelicans,Forward-Center,2000-05-23,2.11,99.8,4862040.0,USA,2019,1,8,Texas
+272,Rui Hachimura,74,8,Washington Wizards,Forward,1998-02-08,2.03,102.1,4469160.0,Japan,2019,1,9,Gonzaga
+273,OG Anunoby,73,3,Toronto Raptors,Forward-Guard,1997-07-17,2.01,105.2,2281800.0,United Kingdom,2017,1,23,Indiana
+274,Dwayne Bacon,73,7,Charlotte Hornets,Guard,1995-08-30,1.98,99.8,1618520.0,USA,2017,2,40,Florida State
+275,DeAndre Bembry,73,95,Atlanta Hawks,Forward,1994-07-04,1.96,93.9,2603981.0,USA,2016,1,21,Saint Joseph's
+276,Jonah Bolden,73,0,Phoenix Suns,Forward,1996-01-02,2.03,97.5,1788296.0,Australia,2017,2,36,UCLA
+277,Sterling Brown,73,23,Milwaukee Bucks,Guard,1995-02-10,1.96,104.3,1618520.0,USA,2017,2,46,SMU
+278,Bruce Brown,73,6,Detroit Pistons,Guard,1996-08-15,1.93,86.2,1416852.0,USA,2018,2,42,Miami (Florida)
+279,Troy Brown,73,6,Washington Wizards,Forward-Guard,1999-07-28,1.98,97.5,3219480.0,USA,2018,1,15,Oregon
+280,Alec Burks,73,0,Philadelphia 76ers,Guard,1991-07-20,1.98,88.5,2320044.0,USA,2011,1,12,Colorado
+281,Alex Caruso,73,4,Los Angeles Lakers,Guard,1994-02-28,1.96,84.4,2750000.0,USA,2016,Undrafted,Undrafted,Texas A&M
+282,Tyson Chandler,73,19,Houston Rockets,Center,1982-10-02,2.13,106.6,2564753.0,USA,2001,1,2,Not informed
+283,Allen Crabbe,73,0,,Guard-Forward,1992-04-09,1.96,89.4,17818456.0,USA,2013,2,31,California
+284,Matthew Dellavedova,73,18,Cleveland Cavaliers,Guard,1990-09-08,1.91,86.2,9607500.0,Australia,2013,Undrafted,Undrafted,Saint Mary's
+285,James Ennis,73,0,Orlando Magic,Forward,1990-07-01,1.98,91.2,1882867.0,USA,2013,2,50,Long Beach State
+286,Dorian Finney-Smith,73,10,Dallas Mavericks,Forward,1993-05-04,2.01,96.6,4000000.0,USA,2016,Undrafted,Undrafted,Florida
+287,Shaquille Harrison,73,3,Chicago Bulls,Guard,1993-10-06,2.01,86.2,1620564.0,USA,2016,Undrafted,Undrafted,Tulsa
+288,Aaron Holiday,73,3,Indiana Pacers,Guard,1996-09-30,1.83,83.9,2239200.0,USA,2018,1,23,UCLA
+289,Danuel House,73,4,Houston Rockets,Forward,1993-06-07,1.98,99.8,3540000.0,USA,2016,Undrafted,Undrafted,Texas A&M
+290,Stanley Johnson,73,5,Toronto Raptors,Forward,1996-05-29,1.98,109.8,3623000.0,USA,2015,1,8,Arizona
+291,Tyus Jones,73,21,Memphis Grizzlies,Guard,1996-05-10,1.83,83.9,10116000.0,USA,2015,1,24,Duke
+292,Furkan Korkmaz,73,30,Philadelphia 76ers,Forward,1997-06-27,2.01,83.9,1620564.0,Turkey,2016,1,26,Not informed
+293,Ian Mahinmi,73,28,Washington Wizards,Center,1986-11-05,2.11,104.3,15450051.0,France,2005,1,28,Not informed
+294,CJ Miles,73,0,,Guard-Forward,1987-03-18,1.98,105.2,8730158.0,USA,2005,2,34,Not informed
+295,Mike Muscala,73,33,Oklahoma City Thunder,Forward-Center,1991-07-01,2.08,104.3,2028594.0,USA,2013,2,44,Bucknell
+296,Frank Ntilikina,73,11,New York Knicks,Guard,1998-07-28,1.93,86.2,4855800.0,France,2017,1,8,Not informed
+297,David Nwaba,73,0,Houston Rockets,Guard,1993-01-14,1.96,95.3,2581965.0,USA,2016,Undrafted,Undrafted,Cal Poly
+298,Royce O'Neale,73,23,Utah Jazz,Forward,1993-06-05,1.93,102.5,1618520.0,USA,2015,Undrafted,Undrafted,Baylor
+299,Semi Ojeleye,73,37,Boston Celtics,Forward,1994-12-05,1.98,106.6,1618520.0,USA,2017,2,37,SMU
+300,Josh Okogie,73,20,Minnesota Timberwolves,Guard,1998-09-01,1.93,96.6,2530680.0,Nigeria,2018,1,20,Georgia Tech
+301,Jonathon Simmons,73,0,,Guard-Forward,1989-09-14,1.98,88.5,1000000.0,USA,2012,Undrafted,Undrafted,Houston
+302,Ishmael Smith,73,14,Washington Wizards,Guard,1988-07-05,1.83,79.4,6000000.0,USA,2010,Undrafted,Undrafted,Wake Forest
+303,Tony Snell,73,17,Detroit Pistons,Forward,1991-11-10,1.98,89.8,11392857.0,USA,2013,1,20,New Mexico
+304,Omari Spellman,73,0,Minnesota Timberwolves,Forward,1997-07-21,2.03,111.1,1897800.0,USA,2018,1,30,Villanova
+305,Garrett Temple,73,17,Brooklyn Nets,Guard-Forward,1986-05-08,1.96,88.5,4767000.0,USA,2009,Undrafted,Undrafted,LSU
+306,Evan Turner,73,1,Minnesota Timberwolves,Guard-Forward,1988-10-27,1.98,93.0,18606556.0,USA,2010,1,2,Ohio State
+307,Lonnie Walker,73,1,San Antonio Spurs,Guard,1998-12-14,1.96,92.5,2764200.0,USA,2018,1,18,Miami (Florida)
+308,Brad Wanamaker,73,9,Boston Celtics,Guard,1989-07-25,1.91,95.3,1445697.0,USA,2011,Undrafted,Undrafted,Pittsburgh
+309,Ante Zizic,73,41,Cleveland Cavaliers,Center,1997-01-04,2.08,113.4,2281800.0,Croatia,2016,1,23,Not informed
+310,Tyler Herro,73,14,Miami Heat,Guard,2000-01-20,1.96,88.5,3640200.0,USA,2019,1,13,Kentucky
+311,Vincent Poirier,73,77,Boston Celtics,Center,1993-10-17,2.13,106.6,2505793.0,France,2015,Undrafted,Undrafted,Not informed
+312,Sekou Doumbouya,73,45,Detroit Pistons,Forward,2000-12-23,2.03,94.8,3285120.0,France,2019,1,15,Not informed
+313,Brandon Clarke,73,15,Memphis Grizzlies,Forward,1996-09-19,2.03,97.5,2478840.0,Canada,2019,1,21,Gonzaga
+314,Nicolo Melli,73,20,New Orleans Pelicans,Forward,1991-01-26,2.06,107.0,4102564.0,Italy,2013,Undrafted,Undrafted,Not informed
+315,Nassir Little,73,9,Portland Trail Blazers,Forward,2000-02-11,1.96,99.8,2105520.0,USA,2019,1,25,North Carolina
+316,Grayson Allen,72,3,Memphis Grizzlies,Guard,1995-10-08,1.93,93.0,2429400.0,USA,2018,1,21,Duke
+317,Antonio Blakeney,72,0,,Guard-Forward,1996-10-04,1.93,89.4,1488231.0,USA,2017,Undrafted,Undrafted,LSU
+318,Michael Carter-Williams,72,7,Orlando Magic,Guard,1991-10-10,1.96,83.5,2028594.0,USA,2013,1,11,Syracuse
+319,Troy Daniels,72,30,Denver Nuggets,Guard,1991-07-15,1.93,90.7,2487033.0,USA,2013,Undrafted,Undrafted,VCU
+320,Donte DiVincenzo,72,0,Milwaukee Bucks,Guard,1997-01-31,1.93,93.0,2905800.0,USA,2018,1,17,Villanova
+321,Jared Dudley,72,10,Los Angeles Lakers,Forward,1985-07-10,1.98,102.1,2564753.0,USA,2007,1,22,Boston College
+322,Cristiano Felicio,72,6,Chicago Bulls,Forward,1992-07-07,2.08,122.5,8156500.0,Brazil,2014,Undrafted,Undrafted,Not informed
+323,Tim Frazier,72,0,,Guard,1990-11-01,1.83,77.1,1620564.0,USA,2014,Undrafted,Undrafted,Penn State
+324,Langston Galloway,72,9,Detroit Pistons,Guard,1991-12-09,1.85,91.6,7333333.0,USA,2014,Undrafted,Undrafted,Saint Joseph's
+325,Justin Holiday,72,8,Indiana Pacers,Guard,1989-04-05,1.98,81.6,4767000.0,USA,2011,Undrafted,Undrafted,Washington
+326,Chandler Hutchison,72,15,Chicago Bulls,Forward,1996-04-26,2.01,88.9,2332320.0,USA,2018,1,22,Boise State
+327,Wesley Iwundu,72,25,Orlando Magic,Forward,1994-12-20,1.98,93.0,1618520.0,USA,2017,2,33,Kansas State
+328,Brandon Knight,72,0,Detroit Pistons,Guard,1991-12-02,1.88,85.7,15643750.0,USA,2011,1,8,Kentucky
+329,Courtney Lee,72,1,Dallas Mavericks,Guard-Forward,1985-10-03,1.96,90.7,12759670.0,USA,2008,1,22,Western Kentucky
+330,Thon Maker,72,7,Detroit Pistons,Forward-Center,1997-02-25,2.13,98.0,3569643.0,Australia,2016,1,10,Not informed
+331,Patrick McCaw,72,22,Toronto Raptors,Guard,1995-10-25,2.01,82.1,4000000.0,USA,2016,2,38,UNLV
+332,Rodney McGruder,72,19,Los Angeles Clippers,Guard,1991-07-29,1.93,93.0,4807693.0,USA,2013,Undrafted,Undrafted,Kansas State
+333,Darius Miller,72,21,New Orleans Pelicans,Forward,1990-03-21,1.98,102.1,7250000.0,USA,2012,2,46,Kentucky
+334,Raul Neto,72,19,Philadelphia 76ers,Guard,1992-05-19,1.85,77.1,1737145.0,Brazil,2013,2,47,Not informed
+335,Georges Niang,72,31,Utah Jazz,Forward,1993-06-17,2.01,104.3,1645357.0,USA,2016,2,50,Iowa State
+336,Cameron Payne,72,0,Phoenix Suns,Guard,1994-08-08,1.88,81.6,346288.0,USA,2015,1,14,Murray State
+337,Anfernee Simons,72,1,Portland Trail Blazers,Guard,1999-06-08,1.91,82.1,2149560.0,USA,2018,1,24,Not informed
+338,Zhaire Smith,72,8,Philadelphia 76ers,Guard-Forward,1999-06-04,1.91,93.0,3058800.0,USA,2018,1,16,Texas Tech
+339,Anthony Tolliver,72,0,Memphis Grizzlies,Forward,1985-06-01,2.03,108.9,2854556.0,USA,2007,Undrafted,Undrafted,Creighton
+340,DJ Wilson,72,5,Milwaukee Bucks,Forward,1996-02-19,2.08,106.1,2961120.0,USA,2017,1,17,Michigan
+341,Alfonzo McKinnie,72,0,Cleveland Cavaliers,Forward,1992-09-17,2.03,97.5,2391985.0,USA,2015,Undrafted,Undrafted,Green Bay
+342,Romeo Langford,72,45,Boston Celtics,Guard,1999-10-25,1.93,98.0,3458400.0,USA,2019,1,14,Indiana
+343,Grant Williams,72,12,Boston Celtics,Forward,1998-11-30,1.98,107.0,2379840.0,USA,2019,1,22,Tennessee
+344,Nicolas Claxton,72,0,Brooklyn Nets,Center,1990-04-17,2.11,97.5,898310.0,USA,2019,2,31,Georgia
+345,PJ Washington,72,25,Charlotte Hornets,Forward,1998-08-23,2.01,102.1,3831840.0,USA,2019,1,12,Kentucky
+346,Ryan Arcidiacono,72,51,Chicago Bulls,Guard,1994-03-26,1.91,88.5,3000000.0,Italy,2016,Undrafted,Undrafted,Villanova
+347,Kevin Porter,72,4,Cleveland Cavaliers,Guard-Forward,2000-05-04,1.93,98.9,1290960.0,USA,2019,1,30,USC
+348,Ryan Broekhoff,72,0,Philadelphia 76ers,Forward,1990-08-23,1.98,97.5,2833704.0,Australia,2013,Undrafted,Undrafted,Valparaiso
+349,Goga Bitadze,72,88,Indiana Pacers,Center,1999-07-20,2.11,113.4,2816760.0,Georgia,2019,1,18,Not informed
+350,De'Anthony Melton,72,0,Memphis Grizzlies,Guard,1998-05-28,1.88,86.2,1416852.0,USA,2018,2,46,USC
+351,Kenrich Williams,72,34,New Orleans Pelicans,Guard-Forward,1994-12-02,1.98,95.3,1416852.0,USA,2018,Undrafted,Undrafted,TCU
+352,Nickeil Alexander-Walker,72,0,New Orleans Pelicans,Guard,1998-09-02,1.96,93.0,2964840.0,Canada,2019,1,17,Virginia Tech
+353,Chuma Okeke,72,3,,Forward-Center,1998-08-18,2.03,104.0,2773550.0,USA,2019,1,16,Auburn
+354,Matisse Thybulle,72,22,Philadelphia 76ers,Guard-Forward,1997-03-04,1.96,91.2,2582160.0,USA,2019,1,20,Washington
+355,Cameron Johnson,72,23,Phoenix Suns,Forward,1996-03-03,2.03,95.3,4033440.0,USA,2019,1,11,North Carolina
+356,Ty Jerome,72,10,Phoenix Suns,Guard,1997-07-08,1.96,88.5,2193480.0,USA,2019,1,24,Virginia
+357,Luka Samanic,72,19,San Antonio Spurs,Forward,2000-01-09,2.08,94.8,2689920.0,Croatia,2019,1,19,Not informed
+358,Keldon Johnson,72,3,San Antonio Spurs,Forward,1999-10-11,1.96,95.7,1950600.0,USA,2019,1,29,Kentucky
+359,Matt Thomas,72,21,Toronto Raptors,Guard,1994-08-04,1.93,89.4,898310.0,USA,2017,Undrafted,Undrafted,Iowa State
+360,Chris Boucher,71,25,Toronto Raptors,Forward-Center,1993-01-11,2.06,90.7,1588231.0,Canada,2017,Undrafted,Undrafted,Oregon
+361,Jevon Carter,71,4,Phoenix Suns,Guard,1995-09-14,1.85,90.7,1416852.0,USA,2018,2,32,West Virginia
+362,Deyonta Davis,71,0,,Forward-Center,1996-12-02,2.08,108.9,250000.0,USA,2016,2,31,Michigan State
+363,Jacob Evans,71,0,Minnesota Timberwolves,Guard,1997-06-18,1.93,95.3,1925880.0,USA,2018,1,28,Cincinnati
+364,Terrance Ferguson,71,23,Oklahoma City Thunder,Guard,1998-05-17,1.98,83.5,2475840.0,USA,2017,1,21,Not informed
+365,Daniel Gafford,71,12,Chicago Bulls,Forward,1998-10-01,2.08,106.1,898310.0,USA,2019,2,38,Arkansas
+366,Treveon Graham,71,12,Atlanta Hawks,Guard,1993-10-28,1.96,99.3,1645357.0,USA,2015,Undrafted,Undrafted,VCU
+367,Frank Jackson,71,15,New Orleans Pelicans,Guard,1998-05-04,1.91,93.0,1618520.0,USA,2017,2,31,Duke
+368,Luke Kornet,71,2,Chicago Bulls,Center,1995-07-15,2.18,108.9,2250000.0,USA,2017,Undrafted,Undrafted,Vanderbilt
+369,Frank Mason,71,15,Milwaukee Bucks,Guard,1994-04-13,1.8,86.2,79568.0,USA,2017,2,34,Kansas
+370,Ben McLemore,71,16,Houston Rockets,Guard,1993-02-11,1.91,85.7,2028594.0,USA,2013,1,7,Kansas
+371,Dzanan Musa,71,13,Brooklyn Nets,Forward,1999-05-08,2.06,88.5,1911600.0,Bosnia and Herzegovina,2018,1,29,Not informed
+372,Elie Okobo,71,2,Phoenix Suns,Guard,1997-10-23,1.91,86.2,1416852.0,France,2018,2,31,Not informed
+373,Jerome Robinson,71,1,Washington Wizards,Guard,1997-02-22,1.93,86.2,3567720.0,USA,2018,1,13,Boston College
+374,JaKarr Sampson,71,14,Indiana Pacers,Forward,1993-03-20,2.01,101.2,1737145.0,USA,2014,Undrafted,Undrafted,St. John's
+375,Edmond Sumner,71,5,Indiana Pacers,Guard,1995-12-13,1.93,84.4,2000000.0,USA,2017,2,52,Xavier
+376,Gary Trent Jr,71,2,Portland Trail Blazers,Guard,1999-01-18,1.96,94.8,1416852.0,USA,2018,2,37,Duke
+377,Moritz Wagner,71,21,Washington Wizards,Forward,1997-04-26,2.11,108.9,2063520.0,Germany,2018,1,25,Michigan
+378,Admiral Schofield,71,1,Washington Wizards,Forward,1997-03-30,1.96,109.3,1000000.0,USA,2019,2,42,Tennessee
+379,Bruno Fernando,71,24,Atlanta Hawks,Forward,1998-08-15,2.06,111.1,1400000.0,Angola,2019,2,34,Maryland
+380,Alen Smailagic,71,6,Golden State Warriors,Forward,2000-08-18,2.08,97.5,898310.0,Serbia,2019,2,39,Not informed
+381,Eric Paschall,71,7,Golden State Warriors,Forward,1996-11-04,1.98,115.7,898310.0,USA,2019,2,41,Villanova
+382,Carsen Edwards,71,4,Boston Celtics,Guard,1998-03-12,1.8,90.7,1228026.0,USA,2019,2,33,Purdue
+383,KZ Okpala,71,4,Miami Heat,Forward,1999-04-28,2.03,97.5,898310.0,USA,2019,2,32,Stanford
+384,Shake Milton,71,18,Philadelphia 76ers,Center,1996-09-26,1.96,93.0,1445697.0,USA,2018,2,54,SMU
+385,Chimezie Metu,71,7,San Antonio Spurs,Forward,1997-03-22,2.06,102.1,1416852.0,Nigeria,2018,2,49,USC
+386,Keita Bates-Diop,70,0,Denver Nuggets,Forward,1996-01-23,2.03,106.6,1416852.0,USA,2018,2,48,Ohio State
+387,Darius Bazley,70,7,Oklahoma City Thunder,Forward,2000-06-12,2.03,90.7,2284800.0,USA,2019,1,23,Not informed
+388,Tony Bradley,70,13,Utah Jazz,Forward-Center,1998-01-08,2.08,112.5,1962360.0,USA,2017,1,28,North Carolina
+389,Hamidou Diallo,70,6,Oklahoma City Thunder,Guard,1998-07-31,1.96,89.8,1416852.0,USA,2018,2,45,Kentucky
+390,Melvin Frazier,70,35,Orlando Magic,Forward,1996-08-30,1.96,91.2,1416852.0,USA,2018,2,35,Tulane
+391,Solomon Hill,70,44,Miami Heat,Forward,1991-03-18,1.98,102.5,13290395.0,USA,2013,1,23,Arizona
+392,Alize Johnson,70,24,Indiana Pacers,Forward,1996-04-26,2.01,91.2,1416852.0,USA,2018,2,50,Missouri State
+393,Skal Labissiere,70,0,Atlanta Hawks,Center-Forward,1996-03-18,2.08,98.0,2338846.0,Haiti,2016,1,28,Kentucky
+394,Tyler Lydon,70,0,,Forward-Center,1996-04-09,2.06,99.8,50000.0,USA,2017,1,24,Syracuse
+395,Sviatoslav Mykhailiuk,70,19,Detroit Pistons,Guard,1997-06-10,2.01,93.0,1416852.0,Ukraine,2018,2,47,Kansas
+396,Johnathan Motley,70,15,Los Angeles Clippers,Forward,1995-05-04,2.03,104.3,79568.0,USA,2017,Undrafted,Undrafted,Baylor
+397,Abdel Nader,70,11,Oklahoma City Thunder,Forward,1993-09-25,1.96,102.1,1618520.0,Egypt,2016,2,58,Iowa State
+398,Miles Plumlee,70,0,,Forward-Center,1988-09-01,2.11,115.7,12500000.0,USA,2012,1,26,Duke
+399,Caleb Swanigan,70,50,Portland Trail Blazers,Center,1997-04-18,2.06,112.9,2033160.0,USA,2017,1,26,Purdue
+400,Jarred Vanderbilt,70,0,Minnesota Timberwolves,Forward,1999-04-03,2.06,97.1,1416852.0,USA,2018,2,41,Kentucky
+401,Jemerrio Jones,70,0,,Forward,1995-04-09,1.96,91.2,195077.0,USA,2018,Undrafted,Undrafted,New Mexico State
+402,Jordan Poole,70,3,Golden State Warriors,Guard,1999-06-19,1.93,88.0,1964760.0,USA,2019,1,28,Michigan
+403,Talen Horton-Tucker,70,5,Los Angeles Lakers,Guard,2000-11-20,1.93,106.1,898310.0,USA,2019,2,46,Iowa State
+404,Yante Maten,70,0,,Forward-Center,1996-08-14,2.03,108.9,100000.0,USA,2018,Undrafted,Undrafted,Georgia
+405,Thanasis Antetokounmpo,70,43,Milwaukee Bucks,Forward,1992-07-18,1.98,97.5,1445697.0,Greece,2014,2,51,Not informed
+406,Naz Reid,70,11,Minnesota Timberwolves,Center,1999-08-26,2.06,112.9,898310.0,USA,2019,Undrafted,Undrafted,LSU
+407,Ignas Brazdeikis,70,17,New York Knicks,Forward,1999-01-08,1.98,98.0,898310.0,Canada,2019,2,47,Michigan
+408,Deonte Burton,70,30,Oklahoma City Thunder,Guard,1991-06-26,1.93,108.9,1416852.0,USA,2014,Undrafted,Undrafted,Iowa State
+409,Justin James,70,10,Sacramento Kings,Guard,1997-01-24,2.01,86.2,898310.0,USA,2019,2,40,Wyoming
+410,Henry Ellenson,69,0,,Forward-Center,1997-01-13,2.08,109.8,79568.0,USA,2016,1,18,Marquette
+411,Devonte Graham,69,0,Charlotte Hornets,Guard,1995-02-22,1.85,83.9,1416852.0,USA,2018,2,34,Kansas
+412,Amile Jefferson,69,0,,Forward-Center,1993-05-07,2.06,101.6,1529007.0,USA,2017,Undrafted,Undrafted,Duke
+413,Khyri Thomas,69,13,Detroit Pistons,Guard,1996-05-08,1.91,95.3,1416852.0,USA,2018,2,38,Creighton
+414,Theo Pinson,69,0,New York Knicks,Guard,1995-11-05,1.96,99.8,1445697.0,USA,2018,Undrafted,Undrafted,North Carolina
+415,Gary Clark,69,0,Orlando Magic,Forward,1994-11-16,1.98,102.1,1427191.0,USA,2018,Undrafted,Undrafted,Cincinnati
+416,Terance Mann,69,14,Los Angeles Clippers,Guard,1996-10-18,1.96,97.5,1000000.0,USA,2019,2,48,Florida State
+417,Cam Reynolds,69,13,Milwaukee Bucks,Guard,1995-02-07,2.01,102.1,79568.0,USA,2018,Undrafted,Undrafted,Tulane
+418,Tyrone Wallace,69,0,,Guard-Forward,1994-06-10,1.96,90.7,502491.0,USA,2016,2,60,California
+419,Miye Oni,69,24,Utah Jazz,Forward,1997-08-04,1.96,95.3,898310.0,USA,2019,2,58,Yale
+420,Malcolm Miller,69,13,Toronto Raptors,Forward,1993-03-06,2.01,93.0,1588231.0,USA,2015,Undrafted,Undrafted,Holy Cross
+421,Isaac Bonga,68,17,Washington Wizards,Guard,1999-11-08,2.03,90.7,1416852.0,Germany,2018,2,39,Not informed
+422,Isaiah Hartenstein,68,0,,Forward-Center,1998-05-05,2.13,113.4,1416852.0,Germany,2017,2,43,Not informed
+423,Jordan McRae,68,0,Detroit Pistons,Guard,1991-03-28,1.96,81.2,1254933.0,USA,2014,2,58,Tennessee
+424,Brandon Goodwin,68,0,Atlanta Hawks,Guard,1995-10-02,1.83,81.6,522738.0,USA,2018,Undrafted,Undrafted,Florida Gulf Coast
+425,Michael Frazier,68,21,Houston Rockets,Guard,1994-03-08,1.91,90.7,79568.0,USA,2015,2,60,Florida
+426,Kostas Antetokounmpo,68,37,Los Angeles Lakers,Forward,1997-11-20,2.08,90.7,79568.0,Greece,2018,Undrafted,Undrafted,Dayton
+427,Jalen Lecque,68,0,Phoenix Suns,Guard,2000-06-13,1.91,86.2,898310.0,USA,2019,Undrafted,Undrafted,Not informed
+428,Duncan Robinson,67,55,Miami Heat,Forward,1994-04-22,2.01,97.5,1416852.0,USA,2018,Undrafted,Undrafted,Michigan
